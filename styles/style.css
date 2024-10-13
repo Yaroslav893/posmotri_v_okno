@@ -76,6 +76,7 @@ ol {
   inline-size: 711px;
   block-size: 386px;
   margin-block-end: 16px;
+  margin-bottom: 16px;
 }
 
 .search-form {
@@ -207,7 +208,6 @@ ol {
 }
 
 .title {
-  padding-block-end: 26px;
   color: #fff;
   font-family: Oswald, sans-serif;
   font-weight: 700;
